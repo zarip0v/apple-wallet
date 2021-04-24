@@ -1,7 +1,7 @@
 # Эмиль Зарипов - "Карточки в Apple Wallet как новый подход к продажам в интернете"
 
 ### Электронная почта: emil@zaripov.org
-### VK: https://vk.com/just_emil
+### VK: https://vk.com/emilka
 ### Website: https://zaripov.org
 
 
